@@ -34,6 +34,7 @@ bandit14@bandit:~$ pwd
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
+
 ```
 
 ## Notas Adicionales
