@@ -1,0 +1,401 @@
+{
+  "main": {
+    "id": "5d3b10c5070ca093",
+    "type": "split",
+    "children": [
+      {
+        "id": "daad65f10307c341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "486d5bf08ff4330f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88a63a6c50c4150f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e5762fe4ff5f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Level 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "215d3e94ba132aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 2 → Level 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34b2ac5ffd1d7475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 3 → Level 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11dff212d26e2449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 4 → Level 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0efadfa4600adb0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 5 → Level 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b9f1aa6c7c34dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 6 → Level 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ea54ecb5b6f52f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 3 → Level 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af6cf3906800d5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 4 → Level 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb3be61bf86650ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 5 → Level 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c991ebdf9864e39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 6 → Level 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e16935fe3d779ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 7 → Level 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4623d17f8dffc0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandido Nivel 8 → Nivel 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fe66081a74b743c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "554f86f13231587f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 10 → Level 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecb4eab2a3e52aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 11 → Level 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "240e81ae2de846c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 12 → Level 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fbf848cf11221ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 13 → Level 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c91f2c10f2b7cb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 13 → Level 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 19
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6df2b47edf58a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "45cd237bdba642b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3638b9cd327a1c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a26d7dc9a7fc6120",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "779f365bc6679fd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e29f0d163f676fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf2eb7f576aa76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd025d160d9ee69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 13 → Level 14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fb726c9402b105f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 13 → Level 14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7473ca8adf797aea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02c4e01bf4a10391",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Retos_Bandit/Bandit Level 13 → Level 14.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c91f2c10f2b7cb09",
+  "lastOpenFiles": [
+    "Retos_Bandit/Bandit Level 13 → Level 14.md",
+    "Bandit Level 14 → Level 15.md",
+    "Retos_Bandit/Plantilla.md",
+    "Retos_Bandit/Bandit Level 12 → Level 13.md",
+    "Retos_Bandit/Bandit Level 11 → Level 12.md",
+    "Retos_Bandit/Bandit Level 10 → Level 11.md",
+    "Bienvenido.md",
+    "Retos_Bandit/Bandit Level 9 → Level 10.md",
+    "Retos_Bandit/Bandido Nivel 8 → Nivel 9.md",
+    "Retos_Bandit/Level 1.md",
+    "Retos_Bandit/Bandit Level 2 → Level 3.md",
+    "Retos_Bandit/Bandit Level 4 → Level 5.md",
+    "Retos_Bandit/Bandit Level 7 → Level 8.md",
+    "Pasted image 20240826191546.png",
+    "Retos_Bandit/Bandit Level 6 → Level 7.md",
+    "Retos_Bandit/Bandit Level 5 → Level 6.md",
+    "Retos_Bandit/Bandit Level 3 → Level 4.md",
+    "Retos_Bandit/Bandit Level 0.md",
+    "README.md",
+    "Retos_Bandit"
+  ]
+}
