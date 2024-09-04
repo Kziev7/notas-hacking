@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit Level 17 → Level 18.md",
+                "file": "Retos_Bandit/Bandit Level 17 → Level 18.md",
                 "mode": "source",
                 "source": false
               }
@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit Level 18 → Level 19.md",
+                "file": "Retos_Bandit/Bandit Level 18 → Level 19.md",
                 "mode": "source",
                 "source": false
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit Level 19 → Level 20.md",
+                "file": "Retos_Bandit/Bandit Level 19 → Level 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit Level 20 → Level 21.md",
+                "file": "Retos_Bandit/Bandit Level 20 → Level 21.md",
                 "mode": "source",
                 "source": false
               }
@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit Level 21 → Level 22.md",
+                "file": "Retos_Bandit/Bandit Level 21 → Level 22.md",
                 "mode": "source",
                 "source": false
               }
@@ -398,7 +398,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bandit Level 21 → Level 22.md",
+                "file": "Retos_Bandit/Bandit Level 21 → Level 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +415,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bandit Level 21 → Level 22.md",
+                "file": "Retos_Bandit/Bandit Level 21 → Level 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -438,7 +438,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bandit Level 21 → Level 22.md"
+                "file": "Retos_Bandit/Bandit Level 21 → Level 22.md"
               }
             }
           }
@@ -459,14 +459,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d284ab4bb08b4c60",
+  "active": "b3638b9cd327a1c4",
   "lastOpenFiles": [
-    "Bandit Level 20 → Level 21.md",
-    "Bandit Level 21 → Level 22.md",
+    "Retos_Bandit/Bandit Level 20 → Level 21.md",
+    "Retos_Bandit/Bandit Level 21 → Level 22.md",
     "Retos_Bandit/Plantilla.md",
-    "Bandit Level 19 → Level 20.md",
-    "Bandit Level 18 → Level 19.md",
-    "Bandit Level 17 → Level 18.md",
+    "Retos_Bandit/Bandit Level 19 → Level 20.md",
+    "Retos_Bandit/Bandit Level 18 → Level 19.md",
+    "Retos_Bandit/Bandit Level 17 → Level 18.md",
     "Retos_Bandit/Bandit Level 16 → Level 17.md",
     "Retos_Bandit/Bandit Level 2 → Level 3.md",
     "Retos_Bandit/Bandit Level 0.md",
