@@ -117,6 +117,10 @@ please inform the instructor about the rules as well and encourage them to
 contribute to the OverTheWire community so we can keep these games free!
 
 The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+
+
+
 ```
 ## Notas Adicionales
 
