@@ -10,9 +10,7 @@ ssh bandit16@bandit.labs.overthewire.org -p 2220
 
 ## Solucion
 ```
-C:\Users\EvanS>notepad llave.txt
-C:\Users\EvanS>type llave.txt
-C:\Users\EvanS>ssh -i llave.txt
+
 bandit17@bandit.labs.overthewire.org -p2220
 
 bandit17@bandit:~$ cat /etc/bandit_pass/bandit17
